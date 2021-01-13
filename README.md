@@ -17,5 +17,5 @@ Video Game, Steam, Series, Movies, Friends and Music 💕
 
 [Website]() 💻 - Working on it. 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiohpj&show_icons=true&theme=material-palenight" alt="claudiohpj's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohpj&layout=compact&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiohpj&show_icons=true&theme=material-palenight" alt="claudiohpj's github stats" />   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohpj&layout=compact&theme=material-palenight" />
 
