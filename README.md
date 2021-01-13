@@ -23,6 +23,6 @@ Video Game, Steam, Series, Movies, Friends and Music 💕
 
 <a href="https://github.com/claudiohpj/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohpj&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohpj&layout=compact&theme=material-palenight" />
 </a>
 
