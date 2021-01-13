@@ -18,10 +18,11 @@ Video Game, Steam, Series, Movies, Friends and Music 💕
 [Website]() 💻 - Working on it. 
 
 <a href="https://github.com/claudiohpj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiohpj&show_icons=true&include_all_commits=true&theme=material-palenight" alt="claudiohpj's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiohpj&show_icons=true&theme=material-palenight" alt="claudiohpj's github stats" />
 </a>
+
 <a href="https://github.com/claudiohpj/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohpj&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohpj&theme=material-palenight" />
 </a>
 
