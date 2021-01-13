@@ -1,7 +1,7 @@
 # Hi, I'm Claudio! ✌🚀
 
 **About me**  
-I'm a backend and frontend developer. 
+I'm a back-end and front-end developer. 
 There's no limit to learn 🤯
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claudio-henrique-045103b4/)](https://www.linkedin.com/in/claudio-henrique-045103b4/)
