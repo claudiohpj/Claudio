@@ -17,10 +17,7 @@ Video Game, Steam, Series, Movies, Friends and Music 💕
 
 [Website]() 💻 - Working on it. 
 
-![Github stats]<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiohpj&show_icons=true&theme=material-palenight" alt="claudiohpj's github stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiohpj&show_icons=true&theme=material-palenight" alt="claudiohpj's github stats" />
 
-<a href="https://github.com/claudiohpj/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohpj&layout=compact&theme=material-palenight" />
-</a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiohpj&layout=compact&theme=material-palenight" />
 
